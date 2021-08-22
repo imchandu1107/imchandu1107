@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Chandra Kiran
+<h1 align="center">Hi there 👋, I'm Chandra Kiran</h1>
 
-- 🔭 I’m currently working on Front-End Development
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on Front-End Projects
+- 🔭 I’m currently working on Full-Stack Development
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate on Full-Stack Web Applications
 - 📫 How to reach me: chandug1107@gmail.com
 
 <!--
